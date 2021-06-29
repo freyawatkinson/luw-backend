@@ -1,0 +1,55 @@
+.headerBox{
+    display: flex;
+    /* flex-direction: ; */
+    padding: 1%;
+    background-color: #FCF9F9;
+}
+
+.headerLogo{
+    width: 30%;
+    height: 80%;
+}
+
+.hehe{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.hehe p{
+    padding: 0%;
+    margin: 20px;
+    color: #FBB040;
+    font-family: Roboto 18px;
+}
+
+.headerLogo{
+    margin: auto;
+}
+
+.footerBox{
+    display: flex;
+    flex-direction: column;
+    padding: 1%;
+    font-size: 70%;
+    background-color: #C4C4C4;
+}
+
+.name{
+    margin: auto;
+    padding: 0.5%;
+    color: #070707;
+
+}
+
+.copyRight{
+    margin: auto;
+    padding: 0.5%;
+    color: #070707;
+}
+
+.icons{
+    margin: auto;
+    padding: 0.5%;
+    color: #252525;
+}
